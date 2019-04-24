@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "611308890600",
+    "firebase_url": "https://takehomeassignment10-meixuanl.firebaseio.com",
+    "project_id": "takehomeassignment10-meixuanl",
+    "storage_bucket": "takehomeassignment10-meixuanl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611308890600:android:98bd5a58e0e89cfe",
+        "android_client_info": {
+          "package_name": "com.example.takehomeassignment10_meixuanl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611308890600-qj4uice5lug19183i68q5h6n6f3dhpa2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.takehomeassignment10_meixuanl",
+            "certificate_hash": "33ea141a0469d4c6c453271959d702fb9e9c4a5e"
+          }
+        },
+        {
+          "client_id": "611308890600-jhoia94v8nl1q3ii7m0sj2t0si02vqq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAssquo6chWZmQxOEO793jL2BxC1I6KQC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611308890600-jhoia94v8nl1q3ii7m0sj2t0si02vqq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611308890600:android:64e58dacc0483faa",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611308890600-2t1qqo531nje9gcshlcaiciqdgn60efj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "33ea141a0469d4c6c453271959d702fb9e9c4a5e"
+          }
+        },
+        {
+          "client_id": "611308890600-jhoia94v8nl1q3ii7m0sj2t0si02vqq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAssquo6chWZmQxOEO793jL2BxC1I6KQC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611308890600-jhoia94v8nl1q3ii7m0sj2t0si02vqq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
